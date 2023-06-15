@@ -17,9 +17,9 @@ The Pokemon React Project is my third and only solo project thus far. It utilize
 
 ## Screenshots
 
-![App Screenshot]("react-project\screenshots\Screenshot (31).png")
-![App Screenshot]("react-project\screenshots\Screenshot (32).png")
-![App Screenshot]("react-project\screenshots\Screenshot (33).png")
+![Alt text](screenshots\Screenshot (31).png)
+![Alt text](screenshots\Screenshot (32).png)
+![Alt text](screenshots\Screenshot (33).png)
 
 
 ## Acknowledgements
